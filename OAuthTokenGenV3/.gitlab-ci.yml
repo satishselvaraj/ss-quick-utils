@@ -1,0 +1,28 @@
+# GitLab Pages deployment for OAuthTokenGenV3
+# ============================================================
+# This deploys the static web application to GitLab Pages.
+# The site will be available at: https://<namespace>.gitlab.io/<project>/
+#
+# USAGE:
+#   Option A - If this project is standalone (OAuthTokenGenV3 is the root):
+#     Use this file as-is at the project root.
+#
+#   Option B - If OAuthTokenGenV3 is a subfolder in a larger project:
+#     Add the 'pages' job below to your root .gitlab-ci.yml file.
+# ============================================================
+
+image: alpine:latest
+
+pages:
+  stage: deploy
+  script:
+    - echo "Deploying OAuthTokenGenV3 to GitLab Pages..."
+    - mkdir -p public
+    # Adjust the source path based on your project structure:
+    # If OAuthTokenGenV3 is a subfolder:
+    - cp -r OAuthTokenGenV3/public/* public/ 2>/dev/null || cp -r public/* public/ 2>/dev/null || true
+  artifacts:
+    paths:
+      - public
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH

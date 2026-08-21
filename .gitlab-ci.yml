@@ -1,0 +1,16 @@
+# GitLab OAuth Token Generator - CI/CD Pipeline
+image: alpine:latest
+
+# Deploy OAuthTokenGenV3 to GitLab Pages
+create-pages:
+  tags:
+    - dex-build-poc
+  pages:
+    publish: public
+  script:
+    - echo "Deploying OAuthTokenGenV3 to GitLab Pages..."
+    - mkdir -p public
+    - cp -r OAuthTokenGenV3/public/* public/
+    - ls -la public/
+  rules:
+    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH

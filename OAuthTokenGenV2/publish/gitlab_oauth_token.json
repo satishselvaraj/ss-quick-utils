@@ -1,0 +1,13 @@
+{
+  "GitLabDomain": "https://trgl.gitlab-dedicated.com/",
+  "ApplicationId": "db846752d4655d6754e5a5ef908962bf01475a4fa6a04ab4c15a4e2e86469d55",
+  "ApplicationSecret": "gloas-02e7b8d66a5f088ab785936d0523dbe4b980162949f4bd28b1c7cb3c2d75ca6b",
+  "RedirectUri": "http://localhost:8585/",
+  "AccessToken": "053a2f61d231a04b1af02d824e9be96445c08e6044da9ec7c92c7a1158f75200",
+  "RefreshToken": "f51eb9d041aa06b2098ad3b4e969ac8e00f8c501431b0eb9cb5b7fdc57c3c706",
+  "Scope": "api",
+  "ExpiresIn": 7200,
+  "CreatedAtUtc": "2026-08-21T19:09:53.9002341Z",
+  "IsExpired": false,
+  "CanRefresh": true
+}

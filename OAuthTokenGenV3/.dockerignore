@@ -1,0 +1,7 @@
+bin/
+obj/
+publish/
+pages.zip
+*.md
+.gitlab-ci.yml
+serve.ps1
