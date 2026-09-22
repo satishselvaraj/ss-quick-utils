@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CommandTable xmlns="http://schemas.microsoft.com/VisualStudio/2005-10-18/CommandTable"
+              xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <Extern href="stdidcmd.h"/>
+  <Extern href="vsshlids.h"/>
+
+  <Commands package="guidOAuthTokenGenExtPackage">
+    <Groups>
+      <Group guid="guidOAuthTokenGenExtCmdSet" id="MyMenuGroup" priority="0x0600">
+        <Parent guid="guidSHLMainMenu" id="IDM_VS_MENU_TOOLS"/>
+      </Group>
+    </Groups>
+
+    <Buttons>
+      <Button guid="guidOAuthTokenGenExtCmdSet" id="OpenTokenGeneratorCommandId" priority="0x0100" type="Button">
+        <Parent guid="guidOAuthTokenGenExtCmdSet" id="MyMenuGroup" />
+        <Strings>
+          <ButtonText>GitLab OAuth Token Generator</ButtonText>
+        </Strings>
+      </Button>
+    </Buttons>
+  </Commands>
+
+  <Symbols>
+    <GuidSymbol name="guidOAuthTokenGenExtPackage" value="{b8f3c1a2-4d5e-6f78-9a0b-c1d2e3f4a5b6}" />
+    <GuidSymbol name="guidOAuthTokenGenExtCmdSet" value="{c7d8e9f0-1a2b-3c4d-5e6f-708192a3b4c5}">
+      <IDSymbol name="MyMenuGroup" value="0x1020" />
+      <IDSymbol name="OpenTokenGeneratorCommandId" value="0x0100" />
+    </GuidSymbol>
+  </Symbols>
+
+</CommandTable>

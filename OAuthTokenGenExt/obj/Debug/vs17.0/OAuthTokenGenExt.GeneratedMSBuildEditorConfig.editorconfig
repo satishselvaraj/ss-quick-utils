@@ -1,0 +1,15 @@
+is_global = true
+build_property.TargetFramework = vs17.0
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = OAuthTokenGenExt
+build_property.ProjectDir = C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\OAuthTokenGenExt\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

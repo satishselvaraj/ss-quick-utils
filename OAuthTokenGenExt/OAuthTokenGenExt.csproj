@@ -1,0 +1,62 @@
+<Project Sdk="Microsoft.VisualStudio.Sdk.Build">
+
+  <PropertyGroup>
+    <TargetFramework>vs17.0</TargetFramework>
+    <RootNamespace>OAuthTokenGenExt</RootNamespace>
+    <AssemblyName>OAuthTokenGenExt</AssemblyName>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <!-- VSSDK settings -->
+    <GeneratePkgDefFile>true</GeneratePkgDefFile>
+    <UseCodebase>true</UseCodebase>
+    <!-- Include the main assembly and all NuGet dependencies in the VSIX -->
+    <IncludeAssemblyInVSIXContainer>true</IncludeAssemblyInVSIXContainer>
+    <IncludeCopyLocalReferencesInVSIXContainer>true</IncludeCopyLocalReferencesInVSIXContainer>
+    <IncludeDebugSymbolsInVSIXContainer>false</IncludeDebugSymbolsInVSIXContainer>
+    <IncludeDebugSymbolsInLocalVSIXDeployment>false</IncludeDebugSymbolsInLocalVSIXDeployment>
+    <!-- Deploy to VS Experimental Instance on Debug (enables F5) -->
+    <DeployExtension Condition="'$(Configuration)' == 'Debug'">true</DeployExtension>
+    <DeployExtension Condition="'$(Configuration)' == 'Release'">false</DeployExtension>
+    <!-- Start VS Experimental Instance when debugging -->
+    <StartAction>Program</StartAction>
+    <StartArguments>/rootsuffix Exp</StartArguments>
+  </PropertyGroup>
+
+  <!-- Framework references for WPF and HTTP -->
+  <ItemGroup>
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="System.Xaml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Text.Json" Version="8.0.5" />
+  </ItemGroup>
+
+  <!-- Force NuGet dependency DLLs into the VSIX container -->
+  <Target Name="IncludeNuGetDepsInVSIX" BeforeTargets="GetVsixSourceItems">
+    <ItemGroup>
+      <VSIXSourceItem Include="@(ReferenceCopyLocalPaths)" Condition="'%(Extension)' == '.dll'" />
+    </ItemGroup>
+  </Target>
+
+  <!-- WPF XAML page compilation -->
+  <ItemGroup>
+    <Page Include="TokenGeneratorControl.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Resources\icon.png">
+      <IncludeInVSIX>true</IncludeInVSIX>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
+  <Metadata>
+    <Identity Id="OAuthTokenGenExt.a1b2c3d4-e5f6-7890-abcd-ef1234567890" Version="1.0.0" Language="en-US" Publisher="PSO Duo Sandbox" />
+    <DisplayName>GitLab OAuth Token Generator</DisplayName>
+    <Description xml:space="preserve">Generate OAuth 2.0 access tokens for the GitLab for Visual Studio extension. Runs entirely inside Visual Studio with no admin access, no local server, and no Docker required. Supports token generation, refresh, export/import, and includes a VS Setup Guide.</Description>
+    <MoreInfo>https://trgl.gitlab-dedicated.com/lab/g-app-gitlab-saas-lab/pso-duo-sandbox/ss-quick-utils</MoreInfo>
+    <Icon>Resources\icon.png</Icon>
+    <Tags>gitlab, oauth, token, duo, code suggestions</Tags>
+  </Metadata>
+  <Installation>
+    <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0, 19.0)">
+      <ProductArchitecture>amd64</ProductArchitecture>
+    </InstallationTarget>
+    <InstallationTarget Id="Microsoft.VisualStudio.Pro" Version="[17.0, 19.0)">
+      <ProductArchitecture>amd64</ProductArchitecture>
+    </InstallationTarget>
+    <InstallationTarget Id="Microsoft.VisualStudio.Enterprise" Version="[17.0, 19.0)">
+      <ProductArchitecture>amd64</ProductArchitecture>
+    </InstallationTarget>
+  </Installation>
+  <Dependencies>
+    <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" Version="[4.5,)" />
+  </Dependencies>
+  <Prerequisites>
+    <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[17.0, 19.0)" DisplayName="Visual Studio core editor" />
+  </Prerequisites>
+</PackageManifest>
