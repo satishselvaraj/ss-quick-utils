@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>Raven.Forge</RootNamespace>
+    <AssemblyName>Raven.Forge</AssemblyName>
+    <Description>RAVEN Forge - Git operations, branch creation, and merge request management</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Raven.Core\Raven.Core.csproj" />
+    <ProjectReference Include="..\Raven.Scout\Raven.Scout.csproj" />
+  </ItemGroup>
+
+</Project>

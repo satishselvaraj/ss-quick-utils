@@ -1,0 +1,17 @@
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Forge\obj\Debug\net10.0\Raven.Forge.csproj.AssemblyReference.cache
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Forge\obj\Debug\net10.0\Raven.Forge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Forge\obj\Debug\net10.0\Raven.Forge.AssemblyInfoInputs.cache
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Forge\obj\Debug\net10.0\Raven.Forge.AssemblyInfo.cs
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Forge\obj\Debug\net10.0\Raven.Forge.csproj.CoreCompileInputs.cache
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Forge\bin\Debug\net10.0\Raven.Forge.deps.json
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Forge\bin\Debug\net10.0\Raven.Forge.dll
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Forge\bin\Debug\net10.0\Raven.Forge.pdb
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Forge\bin\Debug\net10.0\Raven.Core.dll
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Forge\bin\Debug\net10.0\Raven.Scout.dll
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Forge\bin\Debug\net10.0\Raven.Core.pdb
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Forge\bin\Debug\net10.0\Raven.Scout.pdb
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Forge\obj\Debug\net10.0\Raven.Fo.75D9F831.Up2Date
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Forge\obj\Debug\net10.0\Raven.Forge.dll
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Forge\obj\Debug\net10.0\refint\Raven.Forge.dll
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Forge\obj\Debug\net10.0\Raven.Forge.pdb
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Forge\obj\Debug\net10.0\ref\Raven.Forge.dll
