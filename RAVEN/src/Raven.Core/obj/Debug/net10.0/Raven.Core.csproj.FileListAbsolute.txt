@@ -1,0 +1,12 @@
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Core\bin\Debug\net10.0\Raven.Core.deps.json
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Core\bin\Debug\net10.0\Raven.Core.dll
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Core\bin\Debug\net10.0\Raven.Core.pdb
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Core\obj\Debug\net10.0\Raven.Core.csproj.AssemblyReference.cache
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Core\obj\Debug\net10.0\Raven.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Core\obj\Debug\net10.0\Raven.Core.AssemblyInfoInputs.cache
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Core\obj\Debug\net10.0\Raven.Core.AssemblyInfo.cs
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Core\obj\Debug\net10.0\Raven.Core.csproj.CoreCompileInputs.cache
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Core\obj\Debug\net10.0\Raven.Core.dll
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Core\obj\Debug\net10.0\refint\Raven.Core.dll
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Core\obj\Debug\net10.0\Raven.Core.pdb
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Core\obj\Debug\net10.0\ref\Raven.Core.dll
