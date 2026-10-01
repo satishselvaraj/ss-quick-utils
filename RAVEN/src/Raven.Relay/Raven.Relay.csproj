@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>Raven.Relay</RootNamespace>
+    <AssemblyName>Raven.Relay</AssemblyName>
+    <Description>RAVEN Relay - Rally (Broadcom Agile Central) integration engine</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Raven.Core\Raven.Core.csproj" />
+  </ItemGroup>
+
+</Project>

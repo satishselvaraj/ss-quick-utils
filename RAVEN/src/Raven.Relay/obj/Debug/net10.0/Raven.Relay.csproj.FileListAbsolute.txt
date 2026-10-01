@@ -1,0 +1,15 @@
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Relay\obj\Debug\net10.0\Raven.Relay.csproj.AssemblyReference.cache
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Relay\obj\Debug\net10.0\Raven.Relay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Relay\obj\Debug\net10.0\Raven.Relay.AssemblyInfoInputs.cache
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Relay\obj\Debug\net10.0\Raven.Relay.AssemblyInfo.cs
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Relay\obj\Debug\net10.0\Raven.Relay.csproj.CoreCompileInputs.cache
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Relay\bin\Debug\net10.0\Raven.Relay.deps.json
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Relay\bin\Debug\net10.0\Raven.Relay.dll
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Relay\bin\Debug\net10.0\Raven.Relay.pdb
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Relay\bin\Debug\net10.0\Raven.Core.dll
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Relay\bin\Debug\net10.0\Raven.Core.pdb
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Relay\obj\Debug\net10.0\Raven.Re.0CC078A7.Up2Date
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Relay\obj\Debug\net10.0\Raven.Relay.dll
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Relay\obj\Debug\net10.0\refint\Raven.Relay.dll
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Relay\obj\Debug\net10.0\Raven.Relay.pdb
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Relay\obj\Debug\net10.0\ref\Raven.Relay.dll
