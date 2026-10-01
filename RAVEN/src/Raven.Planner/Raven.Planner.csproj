@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>Raven.Planner</RootNamespace>
+    <AssemblyName>Raven.Planner</AssemblyName>
+    <Description>RAVEN Planner - Story-to-implementation planning and task generation</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Raven.Core\Raven.Core.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,15 @@
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Planner\bin\Debug\net10.0\Raven.Planner.deps.json
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Planner\bin\Debug\net10.0\Raven.Planner.dll
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Planner\bin\Debug\net10.0\Raven.Planner.pdb
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Planner\bin\Debug\net10.0\Raven.Core.dll
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Planner\bin\Debug\net10.0\Raven.Core.pdb
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Planner\obj\Debug\net10.0\Raven.Planner.csproj.AssemblyReference.cache
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Planner\obj\Debug\net10.0\Raven.Planner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Planner\obj\Debug\net10.0\Raven.Planner.AssemblyInfoInputs.cache
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Planner\obj\Debug\net10.0\Raven.Planner.AssemblyInfo.cs
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Planner\obj\Debug\net10.0\Raven.Planner.csproj.CoreCompileInputs.cache
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Planner\obj\Debug\net10.0\Raven.Pl.759C325B.Up2Date
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Planner\obj\Debug\net10.0\Raven.Planner.dll
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Planner\obj\Debug\net10.0\refint\Raven.Planner.dll
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Planner\obj\Debug\net10.0\Raven.Planner.pdb
+C:\Users\sselvaraj\source\gitlabRepos\ss-quick-utils\RAVEN\src\Raven.Planner\obj\Debug\net10.0\ref\Raven.Planner.dll
