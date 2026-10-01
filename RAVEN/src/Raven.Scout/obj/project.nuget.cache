@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8UEV0ND6MZo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sselvaraj\\source\\gitlabRepos\\ss-quick-utils\\RAVEN\\src\\Raven.Scout\\Raven.Scout.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sselvaraj\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\sselvaraj\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.0\\microsoft.extensions.logging.abstractions.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

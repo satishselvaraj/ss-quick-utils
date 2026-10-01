@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>Raven.Scout</RootNamespace>
+    <AssemblyName>Raven.Scout</AssemblyName>
+    <Description>RAVEN Scout - Repository intelligence and discovery via GitLab API</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Raven.Core\Raven.Core.csproj" />
+  </ItemGroup>
+
+</Project>
